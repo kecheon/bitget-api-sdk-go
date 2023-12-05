@@ -1,6 +1,6 @@
 module github.com/kecheon/bitget-api-sdk-go
 
-go 1.20
+go 1.18
 
 require (
 	github.com/goccy/go-json v0.10.2
