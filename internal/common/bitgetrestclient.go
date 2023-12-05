@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kecheon/bitget-golang-sdk-api/config"
-	"github.com/kecheon/bitget-golang-sdk-api/constants"
-	"github.com/kecheon/bitget-golang-sdk-api/internal"
+	"github.com/kecheon/bitget-api-sdk-go/config"
+	"github.com/kecheon/bitget-api-sdk-go/constants"
+	"github.com/kecheon/bitget-api-sdk-go/internal"
 )
 
 type BitgetRestClient struct {

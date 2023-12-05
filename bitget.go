@@ -4,12 +4,12 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/kecheon/bitget-golang-sdk-api/internal/common"
-	"github.com/kecheon/bitget-golang-sdk-api/internal/model"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/client/broker"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/client/mix"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/client/spot"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/client/ws"
+	"github.com/kecheon/bitget-api-sdk-go/internal/common"
+	"github.com/kecheon/bitget-api-sdk-go/internal/model"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/client/broker"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/client/mix"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/client/spot"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/client/ws"
 )
 
 // client

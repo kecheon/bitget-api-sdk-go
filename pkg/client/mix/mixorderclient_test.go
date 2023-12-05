@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kecheon/bitget-golang-sdk-api/internal"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/model/mix/order"
+	"github.com/kecheon/bitget-api-sdk-go/internal"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/model/mix/order"
 )
 
 func TestMixOrderClient_PlaceOrder(t *testing.T) {

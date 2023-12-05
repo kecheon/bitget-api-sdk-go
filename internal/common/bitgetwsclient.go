@@ -8,11 +8,11 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/robfig/cron"
 
-	"github.com/kecheon/bitget-golang-sdk-api/config"
-	"github.com/kecheon/bitget-golang-sdk-api/constants"
-	"github.com/kecheon/bitget-golang-sdk-api/internal"
-	"github.com/kecheon/bitget-golang-sdk-api/internal/model"
-	"github.com/kecheon/bitget-golang-sdk-api/logging/applogger"
+	"github.com/kecheon/bitget-api-sdk-go/config"
+	"github.com/kecheon/bitget-api-sdk-go/constants"
+	"github.com/kecheon/bitget-api-sdk-go/internal"
+	"github.com/kecheon/bitget-api-sdk-go/internal/model"
+	"github.com/kecheon/bitget-api-sdk-go/logging/applogger"
 )
 
 type BitgetBaseWsClient struct {

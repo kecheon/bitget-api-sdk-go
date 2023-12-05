@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/model/spot/order"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/model/spot/order"
 )
 
 func TestSpotOrderClient_Orders(t *testing.T) {

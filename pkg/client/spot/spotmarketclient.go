@@ -1,9 +1,9 @@
 package spot
 
 import (
-	"github.com/kecheon/bitget-golang-sdk-api/constants"
-	"github.com/kecheon/bitget-golang-sdk-api/internal"
-	"github.com/kecheon/bitget-golang-sdk-api/internal/common"
+	"github.com/kecheon/bitget-api-sdk-go/constants"
+	"github.com/kecheon/bitget-api-sdk-go/internal"
+	"github.com/kecheon/bitget-api-sdk-go/internal/common"
 )
 
 type SpotMarketClient struct {

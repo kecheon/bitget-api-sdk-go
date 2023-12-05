@@ -1,10 +1,10 @@
 package mix
 
 import (
-	"github.com/kecheon/bitget-golang-sdk-api/constants"
-	"github.com/kecheon/bitget-golang-sdk-api/internal"
-	"github.com/kecheon/bitget-golang-sdk-api/internal/common"
-	"github.com/kecheon/bitget-golang-sdk-api/pkg/model/mix/order"
+	"github.com/kecheon/bitget-api-sdk-go/constants"
+	"github.com/kecheon/bitget-api-sdk-go/internal"
+	"github.com/kecheon/bitget-api-sdk-go/internal/common"
+	"github.com/kecheon/bitget-api-sdk-go/pkg/model/mix/order"
 )
 
 type MixOrderClient struct {
